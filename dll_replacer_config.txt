@@ -1,0 +1,4 @@
+ExampleDll
+.*
+
+^.*Test.*$
