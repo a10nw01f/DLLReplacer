@@ -19,10 +19,10 @@ Easy live DLL reloading for faster development iteration with minimal integratio
 
 ## Live Reloading:
 1. Run Example.exe
-2. Modify ExampleFunc() inside ExampleDLL
+2. Modify ExampleFunc() inside the ExampleDLL
 3. Run rename_old.bat
-4. Compile the modified Example.DLL
-5. Run replace_dll.bat and watch how it calls to modified function
+4. Compile the modified ExampleDLL
+5. Run replace_dll.bat and watch how it calls the modified function
 6. Repeat steps 2-5 as many times as you want
 
 
